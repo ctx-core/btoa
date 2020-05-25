@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/btoa",
-	"version": "3.2.104",
+	"version": "3.2.105",
 	"description": "ctx-core btoa",
 	"type": "module",
 	"main": "lib.js",
@@ -30,8 +30,8 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^5.13.8",
-		"@ctx-core/logger": "^3.1.15",
+		"@ctx-core/dom": "^5.13.9",
+		"@ctx-core/logger": "^3.1.16",
 		"btoa-lite": "^1.0.0"
 	},
 	"devDependencies": {
