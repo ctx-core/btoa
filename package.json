@@ -2,6 +2,7 @@
 	"name": "@ctx-core/btoa",
 	"version": "3.2.103",
 	"description": "ctx-core btoa",
+	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
