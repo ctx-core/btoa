@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/btoa",
-	"version": "3.2.119",
+	"version": "3.2.120",
 	"description": "ctx-core btoa",
 	"main": "index.js",
 	"module": "index.js",
@@ -29,8 +29,8 @@
 		"access": "public"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^5.13.23",
-		"@ctx-core/logger": "^3.1.18",
+		"@ctx-core/dom": "^5.13.24",
+		"@ctx-core/logger": "^3.1.19",
 		"btoa-lite": "^1.0.0"
 	},
 	"devDependencies": {
