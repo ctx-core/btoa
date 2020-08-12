@@ -30,7 +30,6 @@
 	},
 	"dependencies": {
 		"@ctx-core/dom": "^6.0.22",
-		"@ctx-core/logger": "^3.1.23",
 		"btoa-lite": "^1.0.0"
 	},
 	"devDependencies": {

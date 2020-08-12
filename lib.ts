@@ -3,10 +3,7 @@
  * @module @ctx-core/btoa/lib
  */
 import { _no__dom } from '@ctx-core/dom'
-import { log } from '@ctx-core/logger'
-const logPrefix = '@ctx-core/btoa/lib.js'
 export function _Uint32Array__btoa(b64) {
-	log(`${logPrefix}|_Uint32Array__btoa`)
 	const btoa = _btoa()
 	const $ = btoa(b64)
 	const { length } = $
