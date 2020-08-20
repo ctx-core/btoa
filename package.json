@@ -33,7 +33,7 @@
 		"btoa-lite": "^1.0.0"
 	},
 	"devDependencies": {
-		"typescript": "^3.9.7"
+		"typescript": "^4.0.2"
 	},
 	"gitHead": "e9d4e6933441f1ce228f2a4b71985e8b5e08482f"
 }
