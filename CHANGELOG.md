@@ -1,5 +1,16 @@
 # @ctx-core/btoa
 
+## 4.0.0
+
+### Major Changes
+
+- Typescript strict checking
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/dom@7.0.0
+
 ## 3.2.176
 
 ### Patch Changes
