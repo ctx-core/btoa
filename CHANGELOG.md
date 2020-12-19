@@ -1,5 +1,11 @@
 # @ctx-core/btoa
 
+## 4.0.72
+
+### Patch Changes
+
+- @ctx-core/dom@7.1.24
+
 ## 4.0.71
 
 ### Patch Changes
