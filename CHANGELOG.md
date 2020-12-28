@@ -1,5 +1,11 @@
 # @ctx-core/btoa
 
+## 4.0.75
+
+### Patch Changes
+
+- fix: btoa return value
+
 ## 4.0.74
 
 ### Patch Changes

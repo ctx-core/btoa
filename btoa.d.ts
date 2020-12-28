@@ -1,1 +1,1 @@
-export declare function btoa(...arg_a1: []): any;
+export declare function btoa(data: string): any;

@@ -1,4 +1,4 @@
 import { _btoa } from './_btoa'
-export function btoa(...arg_a1:[]) {
-  return _btoa(...arg_a1)
+export function btoa(data: string) {
+  return _btoa()(data)
 }
