@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/btoa",
-	"version": "4.0.81",
+	"version": "4.0.82",
 	"description": "ctx-core btoa",
 	"keywords": [
 		"ctx-core",
@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^7.1.32",
+		"@ctx-core/dom": "workspace:^7.1.33",
 		"btoa-lite": "^1.0.0"
 	},
 	"devDependencies": {
