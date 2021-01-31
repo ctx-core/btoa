@@ -1,5 +1,16 @@
 # @ctx-core/btoa
 
+## 5.0.0
+
+### Major Changes
+
+- src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/dom@8.0.0
+
 ## 4.0.101
 
 ### Patch Changes
