@@ -27,7 +27,7 @@
 		"prepublishOnly": "npm run compile"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^8.2.34",
+		"@ctx-core/dom": "workspace:^8.2.35",
 		"btoa-lite": "^1.0.0"
 	},
 	"devDependencies": {
