@@ -3,7 +3,7 @@ import { _btoa } from './_btoa'
  * btoa helper functions
  * @module @ctx-core/btoa/lib
  */
-export function _btoa_Uint32Array(b64) {
+export function _btoa_Uint32Array(b64:string) {
 	const btoa = _btoa()
 	const $ = btoa(b64)
 	const { length } = $
