@@ -1,7 +1,7 @@
-import { no__dom } from '@ctx-core/dom'
+import { no_dom } from '@ctx-core/dom'
 export function _btoa() {
 	const btoa =
-		no__dom
+		no_dom
 		? require('btoa-lite')
 		: window.btoa
 	return btoa
