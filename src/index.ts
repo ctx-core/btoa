@@ -1,3 +1,3 @@
-export * from './_btoa'
-export * from './_btoa_Uint32Array'
+export * from './btoa_'
+export * from './btoa__uint32_array_'
 export * from './btoa'

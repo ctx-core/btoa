@@ -1,4 +1,4 @@
-import { _btoa } from './_btoa'
+import { btoa_ } from './btoa_'
 export function btoa(data: string) {
-  return _btoa()(data)
+  return btoa_()(data)
 }

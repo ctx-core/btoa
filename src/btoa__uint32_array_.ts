@@ -1,10 +1,10 @@
-import { _btoa } from './_btoa'
+import { btoa_ } from './btoa_'
 /**
  * btoa helper functions
  * @module @ctx-core/btoa/lib
  */
-export function _btoa_Uint32Array(b64:string) {
-	const btoa = _btoa()
+export function btoa_Uint32Array_(b64:string) {
+	const btoa = btoa_()
 	const $ = btoa(b64)
 	const { length } = $
 	let btoa_Uint32Array = new Uint32Array(length)
@@ -14,5 +14,6 @@ export function _btoa_Uint32Array(b64:string) {
 	return btoa_Uint32Array
 }
 export {
-	_btoa_Uint32Array as _Uint32Array__btoa
+	btoa_Uint32Array_ as _btoa_Uint32Array,
+	btoa_Uint32Array_ as _Uint32Array__btoa,
 }
