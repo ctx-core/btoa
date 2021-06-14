@@ -1,5 +1,16 @@
 # @ctx-core/btoa
 
+## 7.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
+### Patch Changes
+
+- Updated dependencies [undefined]
+  - @ctx-core/dom@10.0.0
+
 ## 6.0.3
 
 ### Patch Changes
