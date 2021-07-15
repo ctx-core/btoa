@@ -1,9 +1,5 @@
-import { no_dom } from '@ctx-core/dom'
-export function btoa_() {
-	const btoa =
-		no_dom
-		? require('btoa-lite')
-		: window.btoa
+import { btoa } from './btoa'
+export function btoa_():(decoded_data:string)=>string {
 	return btoa
 }
 export {

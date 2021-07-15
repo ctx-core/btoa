@@ -1,4 +1,2 @@
-import { btoa_ } from './btoa_'
-export function btoa(data: string) {
-  return btoa_()(data)
-}
+import btoa from 'btoa-lite'
+export { btoa }
