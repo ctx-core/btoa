@@ -1,4 +1,4 @@
-import { btoa_ } from './btoa_'
+import { btoa_ } from './btoa_.js'
 /**
  * btoa helper functions
  * @module @ctx-core/btoa/lib

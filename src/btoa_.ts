@@ -1,4 +1,4 @@
-import { btoa } from './btoa'
+import { btoa } from './btoa.js'
 export function btoa_():(decoded_data:string)=>string {
 	return btoa
 }
