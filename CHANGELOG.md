@@ -1,5 +1,21 @@
 # @ctx-core/btoa
 
+## 8.0.11
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.12
+
+## 8.0.10
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.11
+
 ## 8.0.9
 
 ### Patch Changes
