@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/btoa",
-	"version": "8.0.13",
+	"version": "8.0.14",
 	"description": "ctx-core btoa",
 	"keywords": [
 		"ctx-core",
@@ -21,9 +21,11 @@
 	"module": "./dist/index.js",
 	"types": "./dist/index.d.ts",
 	"exports": {
-		"require": "./dist/index.cjs",
-		"import": "./dist/index.js",
-		"package.json": "./package.json"
+		".": {
+			"require": "./dist/index.cjs",
+			"import": "./dist/index.js"
+		},
+		"./package.json": "./package.json"
 	},
 	"browser": "./dist/index.browser.js",
 	"scripts": {
@@ -35,7 +37,7 @@
 		"prepublishOnly": "npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^11.0.14",
+		"@ctx-core/dom": "workspace:^11.0.15",
 		"btoa-lite": "^1.0.0",
 		"esm": "^3.2.25"
 	},
