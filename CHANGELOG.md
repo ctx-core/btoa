@@ -1,5 +1,13 @@
 # @ctx-core/btoa
 
+## 8.0.13
+
+### Patch Changes
+
+- exports: + "package.json": "./package.json"
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.14
+
 ## 8.0.12
 
 ### Patch Changes
