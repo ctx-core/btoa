@@ -1,5 +1,13 @@
 # @ctx-core/btoa
 
+## 8.0.21
+
+### Patch Changes
+
+- typescript: ^4.4.3 -> ^4.4.4
+- Updated dependencies [undefined]
+  - @ctx-core/dom@11.0.28
+
 ## 8.0.20
 
 ### Patch Changes
