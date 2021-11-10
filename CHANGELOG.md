@@ -1,5 +1,13 @@
 # @ctx-core/btoa
 
+## 8.0.23
+
+### Patch Changes
+
+- compile using swc
+- Updated dependencies
+  - @ctx-core/dom@11.0.30
+
 ## 8.0.22
 
 ### Patch Changes
