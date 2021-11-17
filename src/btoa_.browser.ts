@@ -1,4 +1,4 @@
-import { btoa } from './btoa.browser'
+import { btoa } from './btoa.browser.js'
 export function btoa_() {
 	return btoa
 }
