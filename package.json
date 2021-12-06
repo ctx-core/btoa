@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/btoa",
-	"version": "8.0.29",
+	"version": "8.0.30",
 	"description": "ctx-core btoa",
 	"keywords": [
 		"ctx-core",
@@ -36,12 +36,12 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "workspace:^11.0.36",
+		"@ctx-core/dom": "workspace:^11.0.37",
 		"btoa-lite": "^1.0.0"
 	},
 	"devDependencies": {
 		"@swc/cli": "^0.1.52",
-		"@swc/core": "^1.2.117",
+		"@swc/core": "^1.2.118",
 		"@types/btoa-lite": "^1.0.0",
 		"typescript": "next"
 	},
