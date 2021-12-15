@@ -1,5 +1,13 @@
 # @ctx-core/btoa
 
+## 8.0.35
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+- Updated dependencies
+  - @ctx-core/dom@11.0.43
+
 ## 8.0.34
 
 ### Patch Changes
