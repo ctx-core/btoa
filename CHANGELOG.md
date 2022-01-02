@@ -1,5 +1,19 @@
 # @ctx-core/btoa
 
+## 8.0.42
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+- Updated dependencies
+  - @ctx-core/dom@11.1.2
+
+## 8.0.41
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 8.0.40
 
 ### Patch Changes
