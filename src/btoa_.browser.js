@@ -4,4 +4,3 @@ export const btoa_ = ()=>{
 	return btoa
 }
 export { btoa_ as _btoa, }
-//# sourceMappingURL=btoa_.browser.js.map

@@ -1,5 +1,11 @@
 # @ctx-core/btoa
 
+## 8.0.43
+
+### Patch Changes
+
+- fix: remove incorrect source map annotation
+
 ## 8.0.42
 
 ### Patch Changes
