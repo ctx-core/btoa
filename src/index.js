@@ -1,3 +1,3 @@
-export * from './btoa_.js'
-export * from './btoa__uint32_array_.js'
 export * from './btoa.js'
+export * from './btoa_.js'
+export * from './btoa_Uint32Array_.js'
