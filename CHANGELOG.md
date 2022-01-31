@@ -1,5 +1,17 @@
 # @ctx-core/btoa
 
+## 8.0.48
+
+### Patch Changes
+
+- update dependencies
+
+## 8.0.47
+
+### Patch Changes
+
+- 9c361b0c8: update dependencies
+
 ## 8.0.46
 
 ### Patch Changes
