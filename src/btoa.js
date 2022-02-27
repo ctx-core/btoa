@@ -1,2 +1,4 @@
-import btoa from 'btoa-lite'
-export { btoa }
+export function btoa(str) {
+  return new Buffer(str).toString('base64')
+}
+

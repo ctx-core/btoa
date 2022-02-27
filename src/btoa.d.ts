@@ -1,2 +1,1 @@
-import btoa from 'btoa-lite'
-export { btoa }
+export declare function btoa(decodedData: string): string;

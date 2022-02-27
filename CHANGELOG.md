@@ -1,5 +1,11 @@
 # @ctx-core/btoa
 
+## 8.0.50
+
+### Patch Changes
+
+- - btoa-lite
+
 ## 8.0.49
 
 ### Patch Changes
