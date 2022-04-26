@@ -1,5 +1,13 @@
 # @ctx-core/btoa
 
+## 8.0.55
+
+### Patch Changes
+
+- @ctx-core/function: 20.7.1
+- Updated dependencies
+  - @ctx-core/dom@11.1.14
+
 ## 8.0.54
 
 ### Patch Changes
