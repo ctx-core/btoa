@@ -1,5 +1,11 @@
 # @ctx-core/btoa
 
+## 8.0.57
+
+### Patch Changes
+
+- @ctx-core/dom: ^11.1.15 -> ^11.1.16
+
 ## 8.0.56
 
 ### Patch Changes
