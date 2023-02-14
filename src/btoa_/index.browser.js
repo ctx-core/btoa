@@ -1,5 +1,5 @@
-import { btoa } from './index.browser.js'
-/** @type {typeof import('./btoa_.browser.d.ts').btoa_} */
+import { btoa } from '../btoa/index.browser.js'
+/** @type {typeof import('./index.browser.d.ts').btoa_} */
 export const btoa_ = ()=>{
 	return btoa
 }

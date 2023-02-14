@@ -1,5 +1,11 @@
 # @ctx-core/btoa
 
+## 8.1.1
+
+### Patch Changes
+
+- btoa\_: browser: fix: import btoa
+
 ## 8.1.0
 
 ### Minor Changes
