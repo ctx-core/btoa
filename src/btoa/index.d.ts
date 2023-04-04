@@ -1,1 +1,1 @@
-export declare function btoa(decodedData: string): string
+export declare function btoa(decodedData:string):string
