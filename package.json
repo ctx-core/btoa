@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/btoa",
-	"version": "8.1.128",
+	"version": "8.1.129",
 	"description": "ctx-core btoa",
 	"keywords": [
 		"ctx-core",
@@ -37,7 +37,7 @@
 		"test-unit-coverage": "c8 pnpm test-unit"
 	},
 	"dependencies": {
-		"@ctx-core/dom": "^14.1.65"
+		"@ctx-core/dom": "^14.1.66"
 	},
 	"devDependencies": {
 		"c8": "^8.0.1",
