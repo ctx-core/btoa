@@ -1,5 +1,13 @@
 # @ctx-core/btoa
 
+## 8.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+- Updated dependencies
+  - ctx-core@2.2.1
+
 ## 8.2.1
 
 ### Patch Changes
