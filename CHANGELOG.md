@@ -1,5 +1,13 @@
 # @ctx-core/btoa
 
+## 8.2.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - ctx-core@2.2.2
+
 ## 8.2.2
 
 ### Patch Changes
