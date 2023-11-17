@@ -1,5 +1,14 @@
 # @ctx-core/btoa
 
+## 8.2.7
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - ctx-core@3.0.0
+
 ## 8.2.6
 
 ### Patch Changes
