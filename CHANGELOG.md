@@ -1,5 +1,11 @@
 # @ctx-core/btoa
 
+## 8.2.31
+
+### Patch Changes
+
+- ctx-core: ^4.6.3 -> ^4.7.0
+
 ## 8.2.30
 
 ### Patch Changes
