@@ -1,5 +1,13 @@
 # @ctx-core/btoa
 
+## 8.2.83
+
+### Patch Changes
+
+- btoa: fix: import: '../process_release_name/index.js'
+- Updated dependencies
+  - ctx-core@5.18.2
+
 ## 8.2.82
 
 ### Patch Changes
